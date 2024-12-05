@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RN2bRIBvOyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.Model\\ContactsApp.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\makarova.ea\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
