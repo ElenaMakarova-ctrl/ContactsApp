@@ -79,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.View\\ContactsApp.View.csproj",
+      "projectUniqueName": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\ContactsApp\\ContactsApp.View\\ContactsApp.View.csproj",
       "projectName": "ContactsApp.View",
-      "projectPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.View\\ContactsApp.View.csproj",
+      "projectPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\ContactsApp\\ContactsApp.View\\ContactsApp.View.csproj",
       "packagesPath": "C:\\Users\\makarova.ea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.View\\obj\\",
+      "outputPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\ContactsApp\\ContactsApp.View\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.Model\\ContactsApp.Model.csproj": {
-              "projectPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\develop-new\\source\\ContactsApp\\ContactsApp.Model\\ContactsApp.Model.csproj"
+            "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\ContactsApp\\ContactsApp.Model\\ContactsApp.Model.csproj": {
+              "projectPath": "C:\\Users\\makarova.ea\\Desktop\\education\\РазработкаПО\\ContactsApp\\ContactsApp.Model\\ContactsApp.Model.csproj"
             }
           }
         }

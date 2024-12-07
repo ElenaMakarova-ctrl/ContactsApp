@@ -23,3 +23,29 @@ C:\Users\makarova.ea\Desktop\education\РазработкаПО\develop-new — 
 C:\Users\makarova.ea\Desktop\education\РазработкаПО\develop-new — копия (2)\source\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\refint\ContactsApp.Model.dll
 C:\Users\makarova.ea\Desktop\education\РазработкаПО\develop-new — копия (2)\source\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.pdb
 C:\Users\makarova.ea\Desktop\education\РазработкаПО\develop-new — копия (2)\source\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ref\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.deps.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.pdb
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.csproj.AssemblyReference.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.AssemblyInfoInputs.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.AssemblyInfo.cs
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.sourcelink.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\refint\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.pdb
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp6\ContactsApp.Model\obj\Debug\net6.0\ref\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.deps.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\bin\Debug\net6.0\ContactsApp.Model.pdb
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.csproj.AssemblyReference.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.AssemblyInfoInputs.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.AssemblyInfo.cs
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.sourcelink.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\refint\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ContactsApp.Model.pdb
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.Model\obj\Debug\net6.0\ref\ContactsApp.Model.dll

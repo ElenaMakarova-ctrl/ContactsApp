@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactsApp.View
-build_property.ProjectDir = C:\Users\makarova.ea\Desktop\education\РазработкаПО\develop-new\source\ContactsApp\ContactsApp.View\
+build_property.ProjectDir = C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\ContactsApp.View\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

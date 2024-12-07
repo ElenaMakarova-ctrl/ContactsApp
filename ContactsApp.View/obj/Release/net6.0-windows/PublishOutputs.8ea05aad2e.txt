@@ -1,0 +1,8 @@
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.View.exe
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.View.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.View.deps.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.View.runtimeconfig.json
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.View.pdb
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\Newtonsoft.Json.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.Model.dll
+C:\Users\makarova.ea\Desktop\education\РазработкаПО\ContactsApp\рр\ContactsApp.Model.pdb
