@@ -95,21 +95,16 @@ public class Project
 	/// <returns>Список контактов, содержащих в себе подстроку.</returns>
 	public List<Contact> FindContactsBySubstring(List<Contact> contactsList, string substring)
 	{
-		if (substring == "")
-		{
-			return contactsList;
-		}
-		List<Contact> result = new();
-		foreach (Contact contact in contactsList)
-		{
-			if (contact.FullName.Contains(substring))
-			{
-				result.Add(contact);
-			}
-		}
+        if (substring == null || substring == "")
+        {
+            return contactsList;
+        }
 
-		return result;
-	}
+        // Perform a case-insensitive search using LINQ
+        return contactsList
+            .Where(contact => contact.FullName.IndexOf(substring, StringComparison.OrdinalIgnoreCase) >= 0)
+            .ToList();
+    }
 
 	/// <summary>
 	/// Отсортировать список контактов по полному имени.

@@ -64,7 +64,7 @@ public partial class MainForm : Form
         FullNameTextBox.Text = contactToShow.FullName;
         EmailTextBox.Text = contactToShow.Email;
         PhoneNumberTextBox.Text = contactToShow.PhoneNumber;
-        DateOfBirthTextBox.Text = contactToShow.DateOfBirth.ToString();
+        DateOfBirthTextBox.Text = contactToShow.DateOfBirth.ToString("d");
         VKTextBox.Text = contactToShow.VKId;
     }
 

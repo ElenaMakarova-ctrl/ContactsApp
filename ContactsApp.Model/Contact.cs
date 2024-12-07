@@ -1,4 +1,6 @@
-﻿namespace ContactsApp.Model;
+﻿using System.Security.AccessControl;
+
+namespace ContactsApp.Model;
 
 /// <summary>
 /// Описывает контакт.
@@ -130,10 +132,20 @@ public class Contact : ICloneable
 		set
 		{
 			ContactValidator.CheckMinIntValue(value.Year, 1900, "Год рождения");
-			ContactValidator.CheckMaxIntValue(value.Year, DateTime.Now.Year, "Дата рождения");
-			_dateOfBirth = value;
+
+            var now = DateTime.Now;
+
+            // Проверяем, что дата рождения не позже текущей даты
+            if (value > now)
+            {
+                var message = "Дата рождения не может быть больше текущей даты";
+                throw new ArgumentException(message);
+            }
+
+            _dateOfBirth = value;
 		}
 	}
+
 
 	/// <summary>
 	/// Возвращает или задает ID Вконтакте контакта.  
